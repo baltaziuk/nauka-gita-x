@@ -1,0 +1,22 @@
+
+body {
+    font-family: 'Pangolin', cursive;
+}
+
+.container {
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 30px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -ms-flex-pack: center;
+        justify-content: center;
+}
+.box {
+    padding-right: 20x;
+}
+.box1 {
+    padding-top: 50px;  
+}

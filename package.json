@@ -1,0 +1,25 @@
+{
+  "name": "nauka-gita-x",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baltaziuk/nauka-gita-x.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baltaziuk/nauka-gita-x/issues"
+  },
+  "homepage": "https://github.com/baltaziuk/nauka-gita-x#readme",
+  "devDependencies": {
+    "autoprefixer-cli": "^1.0.0",
+    "browser-sync": "^2.26.7",
+    "html-validate": "^3.0.0"
+  }
+}
